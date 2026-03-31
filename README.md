@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there, I'm Avinash.C 👋
+# Welcome to my GitHub profile.
 
-<!--
-**AvinashC11/AvinashC11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🪪 Profile
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+|         Field            |                     Details                       |
+|--------------------------|---------------------------------------------------|
+| 🎓 **Name**             | Avinash.C                                         |
+| 🆔 **Registration No.** | 25BCY10032                                        |
+| 🏛️ **Institution**      | VIT Bhopal University                             |
+| 🌿 **Branch**           | B. Tech CSE (Cybersecurity and Digital Forensics) |
+| 📅 **Year**             | 1st Year [2025-2029]                              |
+| 📧 **Email**            | avinash.25bcy10032@vitbhopal.ac.in                |
+
+---
+
+## 🎯 My Interest
+
+Motivated Computer Science student specializing in Cybersecurity, Network Security, and Digital Forensics. Experiencing with Python, IoT Automation Projects, and investigative tools. Strong interest in detecting cyber threats and building secure systems. Eager to contribute technical skills and analytical thinking to real-world security challenges.
+
+---
+
+*This repository serves as my official GitHub profile*
